@@ -28,4 +28,4 @@ Final scores were based on the sum of absolute errors between predictions and gr
 ## References:  
   - [TensorFlow LSTM API](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)  
   - [AICUP 2024 Competition](https://tbrain.trendmicro.com.tw/Competitions/Details/36)  
-  - [Data Preprocessing Tool (YouTube)](https://www.youtube.com/watch?v=8Wvqr-vIh3A&t=724s)
+  - [氣候小助手 (YouTube)](https://www.youtube.com/watch?v=8Wvqr-vIh3A&t=724s)
