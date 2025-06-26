@@ -17,6 +17,14 @@ The model was built using **TensorFlow (Keras API)**, with the following key com
 - `tensorflow.keras.models.save_model`
 
 
+### Model Structure
+
+- LSTM Layer (128 units, `return_sequences=True`)  
+- LSTM Layer (64 units)  
+- Dropout Layer (rate = 0.2)  
+- Dense Layer (1 unit for regression output)
+
+
 ## Evaluation Metric
 Final scores were based on the sum of absolute errors between predictions and ground truth. Lower total error resulted in higher rankings.
 
